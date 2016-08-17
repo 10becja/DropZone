@@ -1,0 +1,7 @@
+name: DropZone
+main: me.becja10.DropZone.DropZone
+author: 10becja
+version: 1.0
+description: Drop Party Central
+commands:
+  
